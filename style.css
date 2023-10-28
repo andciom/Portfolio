@@ -1,5 +1,5 @@
 td {
-    color: red;
+    color: whitesmoke;
 }
 h1 {
     color: goldenrod;
@@ -9,4 +9,8 @@ body {
 }
 li {
     color: whitesmoke;
+}
+a {
+    text-decoration: none;
+    color: green;
 }
