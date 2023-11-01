@@ -10,13 +10,14 @@ body {
 li {
     color: whitesmoke;
 }
-a {
+#Certs a {
     text-decoration: none;
     color: green;
 }
 th {
     color: azure;
 }
-.nav {
+.nav a {
     color: red;
+    text-align: center;
 }
