@@ -19,5 +19,13 @@ th {
 }
 .nav a {
     color: red;
+    text-align: right;
+    position: relative;
+}
+.nav li {
     text-align: center;
+}
+.nav ul {
+    text-align: center;
+    list-style-type: none
 }
